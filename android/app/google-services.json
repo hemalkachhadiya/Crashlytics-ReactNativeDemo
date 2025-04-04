@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235812678605",
+    "project_id": "analiticsandcreshlatics",
+    "storage_bucket": "analiticsandcreshlatics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235812678605:android:d83286c438b9917cf7f284",
+        "android_client_info": {
+          "package_name": "com.analiticsdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEs7zrDoD8zXRV8KJy33Kmgu7va93u5Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
